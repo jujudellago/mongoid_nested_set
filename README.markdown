@@ -26,13 +26,10 @@ This fork is in a very experimental state, it works well on one of my projects, 
 
 ## Installation
 
-Install as Gem
-
-    gem install glebtv-mongoid_nested_set
 
 via Gemfile
 
-    gem 'glebtv-mongoid_nested_set', '~> 0.4.2'
+    gem 'glebtv-mongoid_nested_set', :github=>"jujudellago/mongoid_nested_set"
 
 
 ## Usage
