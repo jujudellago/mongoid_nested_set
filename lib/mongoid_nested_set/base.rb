@@ -77,6 +77,9 @@ module Mongoid::Acts::NestedSet
           where(:depth => level).asc(left_field_name)
         }
 
+
+      
+
       end
     end
 

@@ -18,6 +18,12 @@ ideal for models that are read more frequently than modified.
 For more on the nested set pattern: <http://en.wikipedia.org/wiki/Nested_set_model>
 
 
+## Important
+
+This fork is in a very experimental state, it works well on one of my projects, but I didn't have time yet to clean things up. If you are interrested, just drop me a line, that might motivate me.
+
+
+
 ## Installation
 
 Install as Gem
